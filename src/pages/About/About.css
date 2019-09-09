@@ -1,0 +1,56 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(black, rgb(24, 23, 24));
+    font-family: 'Manjari', sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.page-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+h1 {
+    margin-bottom: 2px;
+}
+
+h3 {
+    margin-top: 2px;
+}
+
+#about-top {
+    background-image: url("../../assets/background.jpg");
+    margin: 0px;
+    border-bottom: solid 2px hotpink;
+    width: 100%;
+}
+
+#main-photo {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 15%;
+    border: solid 2px hotpink;
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 6px rgba(0,0,0,0.3);
+    border-radius: 50%;
+}
+
+#about-text {
+    background-color: transparent;
+}
+
+#about-text p {
+    width: 80%;
+    margin-top: 20px;
+    padding-top: 20px;
+    margin: 0 auto;
+    color: rgb(192, 192, 192);
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: bold;
+    background-color: transparent;
+}

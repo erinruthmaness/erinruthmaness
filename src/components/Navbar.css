@@ -1,0 +1,23 @@
+.navbar {
+    width: 100%;
+    background-color: black;
+    background-image: linear-gradient(black, rgb(24, 23, 24));
+    padding-top: 12px;
+    padding-bottom: 10px;
+    margin: 0;
+    border-bottom: solid 1px hotpink;
+}
+
+.nav-tab {
+    font-family: 'Manjari', sans-serif;    
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(192, 192, 192);
+    padding: 10px;
+}
+
+.nav-tab:hover {
+    padding: 9px;
+    background-image:linear-gradient(hotpink, fuchsia);
+    border: solid 1px hotpink;
+}
