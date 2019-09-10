@@ -11,6 +11,9 @@ function Contact() {
                 <h3>Charlotte, North Carolina</h3>
             </div>
             <div id="contact-body">
+                <h3>LinkedIn: <a 
+                href="https://www.linkedin.com/in/erin-maness-619286127/">Erin Ruth Maness</a></h3>
+                <h3>Email: erinruthmaness@gmail.com</h3>
             </div>
         </div >
 
