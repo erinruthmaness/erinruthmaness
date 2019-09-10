@@ -15,7 +15,7 @@ function About() {
                     more intuitive user experience on the web. An optimistic, enthusiastic learner
                     with experience in studying languages and adapting to new environments. Recently
                     earned a certificate in Full Stack Development from the University of North
-                    Carolina at Charlotte, with newly-developed skills in React.js, jQuery, ES5/ES6,
+                    Carolina at Charlotte, with skills in React.js, jQuery, ES5/ES6,
                     CSS, Bootstrap, Node.js, Express, SQL, Mongo, and responsive web design.  Excited
                     to leverage organizational and conflict-resolution skills as part of a team in
             order to build better web applications for clients.</p>
