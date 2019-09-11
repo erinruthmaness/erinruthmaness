@@ -12,8 +12,15 @@ import img11 from "./portfolio-imgs/11-friendface.jpg";
 import img12 from "./portfolio-imgs/12-feedhim.jpg";
 import img13 from "./portfolio-imgs/13-studymob.jpg";
 import img14 from "./portfolio-imgs/14-shuffle.jpg";
+import img15 from "./portfolio-imgs/15-connect.jpg";
 
 const portfolio = [
+    {
+        name: "Community Connect",
+        link: "https://boiling-tundra-76888.herokuapp.com/",
+        img: img15,
+        key: 15
+    },
     {
         name: "The ABBA Shuffle",
         link: "https://erinruthmaness.github.io/clicky-game/",
